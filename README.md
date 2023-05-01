@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning <b>HTML, CSS, JAVASCRIPT, PYTHON</b>
 - 💬 Ask me about ... Data Servers
 - 📫 How to reach me: yuri@sensehard.com.br
+- <hr>
 <h3 align="left"> Connect with me: </h3>
 <!-- LINKEDIN -->
 <p align="left"><a href="https://www.linkedin.com/in/yuriviana/" target="_blank" ><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"   alt="linkedin" width="40" height="40" /></a></p>
