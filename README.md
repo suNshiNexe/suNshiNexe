@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there, I'm Yuri Dorea 👋
 
 <!--
 **suNshiNexe/suNshiNexe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!-- SOBRE -->
 - 🔭 I’m currently working on <b>Flesh Perfumaria</b>
 - 🌱 I’m currently learning <b>HTML, CSS, JAVASCRIPT, PYTHON</b>
 - 💬 Ask me about ... Data Servers
+- 📫 How to reach me: yuri@sensehard.com.br
+<h3 align="left"> Connect with me: </h3>
+<!-- LINKEDIN -->
+<p align="left"><a href="https://www.linkedin.com/in/jonatasccp/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"   alt="linkedin" width="40" height="40" /></a></p>
+<!-- LINGUAGENS -->
