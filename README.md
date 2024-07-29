@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!-- SOBRE -->
-- 🔭 I’m currently working on <b>Flesh Perfumaria</b>
+- 🔭 I’m currently looking for jobs in the <b>technology area</b>
 - 🌱 I’m currently learning <b>HTML, CSS, JAVASCRIPT, PYTHON</b>
 - 💬 Ask me about ... Data Servers
 - 📫 How to reach me: yuri@sensehard.com.br
