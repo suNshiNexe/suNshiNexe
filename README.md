@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 -->
 <!-- SOBRE -->
 - 🔭 I’m currently looking for jobs in the <b>technology area</b>
-- 🌱 I’m currently learning <b>HTML, CSS, JAVASCRIPT, PYTHON</b>
-- 💬 Ask me about ... Data Servers
+- 🌱 I’m currently learning <b>Java, JS, Node.js, Scrum, DBA</b>
 - 📫 How to reach me: yuridorea09@gmail.com
 - <hr>
 <h3 align="left"> Connect with me: </h3>
