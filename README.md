@@ -2,18 +2,11 @@
 
 ###
 
-<h2 align="left">Back-end Developer<br>DevOps & Scrum.</h3>
+<h3 align="left">Back-end Developer<br>DevOps & Scrum</h3>
 
 ###
 
-<p>I am a student of <strong>Systems Analysis and Development</strong> in the final semester at <strong>Universidade Cruzeiro do Sul 👨🏽‍🎓</strong>.&nbsp;<br />I am currently focused on developing my skills in <strong>DevOps and Scrum</strong> for project management in my final college project, and I am also studying <strong>back-end programming 📖</strong>.</p>
-<p>I am delving deeper into the following technologies:</p>
-<ul>
-<li>Git, </li>
-<li>Node.js, </li>
-<li>JavaScript, </li>
-<li>SQL</li>
-</ul>
+<p align="left">I am a student of Systems Analysis and Development in the final semester at Universidade Cruzeiro do Sul. <br>I am currently focused on developing my skills in DevOps and Scrum for project management in my final college project, and I am also studying back-end programming.<br><br>I am studying the following technologies: <br>Git, Node.js, JavaScript, and SQL.</p>
 
 ###
 
@@ -57,5 +50,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=suNshiNexe&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=suNshiNexe&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/suNshiNexe/suNshiNexe/output/snake.svg" alt="Snake animation" />
 
 ###
