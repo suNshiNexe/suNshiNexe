@@ -6,7 +6,14 @@
 
 ###
 
-<p align="left">Estudante de Análise e Desenvolvimento de Sistemas cursando o último semestre</p>
+<p>I am a student of <strong>Systems Analysis and Development</strong> in the final semester at <strong>Universidade Cruzeiro do Sul</strong>.&nbsp;<br />I am currently focused on developing my skills in <strong>DevOps and Scrum</strong> for project management in my final college project, and I am also studying <strong>back-end programming</strong>.</p>
+<p>I am delving deeper into the following technologies:</p>
+<ul>
+<li>Git, </li>
+<li>Node.js, </li>
+<li>JavaScript, </li>
+<li>SQL</li>
+</ul>
 
 ###
 
