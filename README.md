@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">Back-end Developer<br>DevOps & Scrum</h3>
+<h3 align="left">Back-end Developer<br>DevOps & Scrum.</h3>
 
 ###
 
