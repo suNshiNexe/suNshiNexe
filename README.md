@@ -46,7 +46,6 @@
 ###
 <h2 align="left">Projects</h2>
 <a href="https://github.com/diegobasilio/RetroReads" target="_blank"><strong>RetroReads</strong></a>
-#
 
 <div style="text-align: center;" align="center">
   <h3>* GitHub Stats *</h3>
