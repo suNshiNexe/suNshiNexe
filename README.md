@@ -43,7 +43,9 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="50" height="38" alt="linktree logo"  />
   </a>
 </div>
+
 ###
+
 <h2 align="left">Projects</h2>
 <a href="https://github.com/diegobasilio/RetroReads" target="_blank"><strong>RetroReads</strong></a>
 
