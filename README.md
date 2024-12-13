@@ -49,7 +49,7 @@
 ###
 
 <h2 align="left">Projects</h2>
-<a href="https://github.com/diegobasilio/RetroReads" target="_blank"><strong>RetroReads</strong></a>
+<a href="https://github.com/suNshiNexe/RetroReads" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/RetroReads-%23129357"></a>
 
 <div style="text-align: center;" align="center">
   <h3>* GitHub Stats *</h3>
