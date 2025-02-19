@@ -54,7 +54,9 @@
 <div style="text-align: center;" align="center">
   <h3>* GitHub Stats *</h3>
   <br>
-![suNshiNexe's Stats](https://github-readme-stats.vercel.app/api?username=suNshiNexe&theme=react&show_icons=true&hide_border=true&count_private=true)
+
+  [suNshiNexe's Stats](https://github-readme-stats.vercel.app/api?username=suNshiNexe&theme=react&show_icons=true&hide_border=true&count_private=true)
+
   
 
   <a href="https://github.com/suNshiNexe/github-readme-stats">
