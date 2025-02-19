@@ -55,13 +55,9 @@
   <h3>* GitHub Stats *</h3>
   <br>
 
-  [suNshiNexe's Stats](https://github-readme-stats.vercel.app/api?username=suNshiNexe&theme=react&show_icons=true&hide_border=true&count_private=true)
+![suNshiNexe's Stats](https://github-readme-stats.vercel.app/api?username=suNshiNexe&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![suNshiNexe's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suNshiNexe&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
-  
-
-  <a href="https://github.com/suNshiNexe/github-readme-stats">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=suNshiNexe&line_height=25&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FF00F6&hide=html,css&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760&count_private=true" alt="Most Used Languages">
-  </a>
 </div>
 
 
