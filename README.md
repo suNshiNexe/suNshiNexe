@@ -55,7 +55,7 @@
   <h3>* GitHub Stats *</h3>
   <br>
 
-![suNshiNexe's Stats](https://github-readme-stats.vercel.app/api?username=suNshiNexe&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![suNshiNexe's Stats](https://github-readme-stats.vercel.app/api?username=suNshiNexe&theme=vue-dark&show_icons=true&hide_border=true&hide_rank=true&count_private=true)
 ![suNshiNexe's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suNshiNexe&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 </div>
