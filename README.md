@@ -41,9 +41,7 @@
   <a href="mailto:yuridorea09@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="50" height="38" alt="gmail logos"  />
   </a>
-  <a href="https://linktr.ee/yuridorea" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="50" height="38" alt="linktree logo"  />
-  </a>
+ 
 </div>
 
 ###
