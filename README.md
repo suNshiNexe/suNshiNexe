@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I am a student of Systems Analysis and Development in the final semester at Universidade Cruzeiro do Sul. <br>I am currently focused on developing my skills in DevOps and Scrum for project management in my final college project, and I am also studying back-end programming.<br><br>I am studying the following technologies: <br>Git, Node.js, JavaScript, and SQL.</p>
+<p align="left"<br>I am studying the following technologies: <br>Python, PostgreSQL, Git, Node.js, JavaScript, and SQL.</p>
 
 ###
 
