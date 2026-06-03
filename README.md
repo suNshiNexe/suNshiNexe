@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">Back-end Developer<br>DevOps & Scrum</h3>
+<h3 align="left">Full Stack Developer<br>DevOps & Scrum</h3>
 
 ###
 
@@ -19,14 +19,30 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=jquery" height="40" alt="jquery logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="python logo"  />
+  <img width="12" />
+  <br>
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo" />
+  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dotnet logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nginx" height="40" alt="nginx logo"  />
+  <img width="12" />
 </div>
+</div>
+
 
 ###
 
@@ -49,16 +65,8 @@
 <h2 align="left">Projects</h2>
 <a href="https://github.com/suNshiNexe/RetroReads" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/RetroReads-%23129357"></a>
 
-<div style="text-align: center;" align="center">
-  <h3>* GitHub Stats *</h3>
-  <br>
 
-![suNshiNexe's Stats](https://github-readme-stats.vercel.app/api?username=suNshiNexe&theme=vue-dark&show_icons=true&hide_border=true&hide_rank=true&count_private=true)
-![suNshiNexe's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suNshiNexe&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-
-</div>
-
-
+<h3> Commits </h3>
 <img src="https://raw.githubusercontent.com/suNshiNexe/suNshiNexe/output/snake.svg" alt="Snake animation" />
 
 
